@@ -1,7 +1,17 @@
 # Unity5-HouseIt-Application 
 
 The app allows customers to go in their future condo and change design of the furniture to their liking. Software was built using best
-practices with Unity 5. 
+practices with Unity 5.
+
+## Controls
+On PC:
+- Press Z/X/C on your keybord to change the points of view
+- Click on the icons to use the menu
+- ESC to close the menu
+ 
+On Any Touch Screen:
+- Swipe left/right/down to change the points of view
+- Touch the icons to use the menu
 ## Technology used
      
 - Unity 5 was used to create it
@@ -27,13 +37,18 @@ practices with Unity 5.
 
 Kitchen Red:
 <img src="Images/1.PNG" align="center" />
+
 Kitchen white & menu:
 <img src="Images/2.PNG" align="center" />
+
 Dining area:
 <img src="Images/3.PNG" align="center" />
+
 Living room:
 <img src="Images/4.PNG" align="center" />
+
 Slider:
 <img src="Images/5.PNG" align="center" />
+
 Condo view:
 <img src="Images/6.PNG" align="center" />
