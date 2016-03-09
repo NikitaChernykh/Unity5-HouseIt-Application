@@ -12,6 +12,7 @@ On PC:
 On Any Touch Screen:
 - Swipe left/right/down to change the points of view
 - Touch the icons to use the menu
+
 ## Technology used
      
 - Unity 5 was used to create it
